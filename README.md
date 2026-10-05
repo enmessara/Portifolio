@@ -12,7 +12,7 @@ A fast, accessible, responsive personal portfolio built with plain HTML, CSS and
 ![No dependencies](https://img.shields.io/badge/dependencies-none-2f6df6?style=flat)
 ![Responsive](https://img.shields.io/badge/responsive-yes-2f6df6?style=flat)
 
-[**Live Demo**](https://your-domain.com) · [**Report a Bug**](../../issues) · [**Contact**](mailto:bensonngugi@proton.me)
+[**Report a Bug**](../../issues) · [**Contact**](mailto:bensonngugi@proton.me)
 
 </div>
 
@@ -22,7 +22,7 @@ A fast, accessible, responsive personal portfolio built with plain HTML, CSS and
 
 | Dark | Light |
 |:---:|:---:|
-| <img src="docs/preview-dark.png" alt="Dark theme preview" width="460"> | <img src="docs/preview-light.png" alt="Light theme preview" width="460"> |
+| <img src="images/dark.png" alt="Dark theme preview" width="460"> | <img src="images/light.png" alt="Light theme preview" width="460"> |
 
 </div>
 
@@ -60,10 +60,8 @@ The site is a static page with **no framework, no build step and no dependencies
 ├── index.html        # Page content and structure
 ├── style.css         # Styles, light/dark themes, responsive rules
 ├── script.js         # Menu, theme toggle, project filter, scroll-spy, contact form
-├── cv.pdf            # Downloadable CV
-├── images/
-│   └── profile.jpg   # Profile photo
-├── docs/             # README screenshots
+├── cv.pdf            # Downloadable CV-not available now
+├── images/             # README screenshots
 └── *.svg             # Contact icons
 ```
 
